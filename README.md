@@ -1,19 +1,19 @@
-# hii i'm Ashlesha Wanjari 
+# hii 👋 I'm Ashlesha Wanjari 
 
-2nd Year Electrical Engineering Student 
-Frontend Developer | Python | C
-Currently building real-world projects
+🎓2nd Year Electrical Engineering Student 
+💻Frontend Developer | Python | C
+🌱Currently building real-world projects
 
-## Skills 
-HTML,CSS,JavaScript
-Python , C
-Git & Github
-VS Code
+## 🔧 Skills 
+-HTML,CSS,JavaScript
+-Python , C
+-Git & Github
+-VS Code
 
-## Projects
+## 📌 Projects
 Frontend Protfolio Website
 Smart Resume Analyzer(python)
 Electrical Data Analysis Project
 
-## Career Goal
+## 🎯 Career Goal
 To built a strong career combining Electrical Engineering and Software Developement.
