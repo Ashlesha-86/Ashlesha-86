@@ -1,16 +1,19 @@
-## Hi there 👋
+# hii i'm Ashlesha Wanjari 
 
-<!--
-**Ashlesha-86/Ashlesha-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Electrical Engineering Student 
+Frontend Developer | Python | C
+Currently building real-world projects
 
-Here are some ideas to get you started:
+## Skills 
+HTML,CSS,JavaScript
+Python , C
+Git & Github
+VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Frontend Protfolio Website
+Smart Resume Analyzer(python)
+Electrical Data Analysis Project
+
+## Career Goal
+To built a strong career combining Electrical Engineering and Software Developement.
