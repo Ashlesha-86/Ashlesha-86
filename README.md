@@ -11,9 +11,9 @@
 -VS Code
 
 ## 📌 Projects
-Frontend Protfolio Website
-Smart Resume Analyzer(python)
-Electrical Data Analysis Project
+Frontend Protfolio Website.
+Smart Resume Analyzer(python).
+Electrical Data Analysis Project.
 
 ## 🎯 Career Goal
 To built a strong career combining Electrical Engineering and Software Developement.
